@@ -1,0 +1,19 @@
+.items {
+  display: flex;
+  flex-direction: row;
+}
+.buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.btn {
+  margin: 10px 0px 10px 0px;
+  background-color: #800080;
+  border-color: #800080;
+  border-radius: 5px;
+  color: white;
+  font-weight: bold;
+  padding: 5px;
+  width: 100%;
+}
